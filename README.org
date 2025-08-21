@@ -3,7 +3,7 @@
 Bindings to libmonitors, allowing the handling of monitor querying and resolution changing.
 
 |---------+--------------------------------------------------|
-| source  | git:https://github.com/Shirakumo/cl-monitors.git |
+| source  | git:https://codeberg.org/shirakumo/cl-monitors.git |
 | commit  | 974e55f                                          |
 | systems | cl-monitors                                      |
 |---------+--------------------------------------------------|
