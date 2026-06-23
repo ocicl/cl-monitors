@@ -7,4 +7,4 @@ Bindings to libmonitors, allowing the handling of monitor querying and resolutio
 | commit  | f879233                                            |
 | systems | cl-monitors                                        |
 |---------+----------------------------------------------------|
- 
+  
